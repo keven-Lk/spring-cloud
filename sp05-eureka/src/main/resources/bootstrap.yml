@@ -1,0 +1,7 @@
+#bootstrap.yml
+#spring:
+#  cloud: 
+    #inetutils:
+      #default-hostname: 
+      #  -VM.* #排除虚拟网卡
+      # preferred-networks: 192.168.0.106 #指定用网卡

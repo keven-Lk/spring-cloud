@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 11.0.2
+Implementation-Title: sp07-hystrix
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.tedu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sp07-hystrix
+Created-By: Maven Integration for Eclipse
+

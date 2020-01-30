@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 11.0.2
+Implementation-Title: sp05-eureka
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tedu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sp05-eureka
+Created-By: Maven Integration for Eclipse
+
